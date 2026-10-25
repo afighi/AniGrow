@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐾 AniGrow Mobile
+#  AniGrow Mobile
 
 ### **Smart Livestock Growth Monitoring & Intelligent Farm Management**
 
