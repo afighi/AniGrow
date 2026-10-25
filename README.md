@@ -2,7 +2,7 @@
 
 #  AniGrow Mobile
 
-### **Smart Livestock Growth Monitoring & Intelligent Farm Management**
+### **AI-Powered Poultry and Livestock Farming Guide with Data Analytics**
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.81.5-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo%20SDK-54-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
